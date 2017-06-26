@@ -1,0 +1,18 @@
+{
+  "name": "cyclejs-hn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://chimon2000@github.com/chimon2000/cyclejs-hn.git",
+  "author": "Ryan <ryan.edge@zoho.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/dom": "^17.4.0",
+    "@cycle/run": "^3.1.0",
+    "csstips": "^0.2.2",
+    "csx": "^8.2.1",
+    "fuse-box": "^2.1.0",
+    "typescript": "^2.3.4",
+    "typestyle": "^1.3.4",
+    "xstream": "^10.8.0"
+  }
+}
